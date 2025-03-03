@@ -1,5 +1,7 @@
-# DS_Challenge
-Solving Intrusion detection in DAS
+# DS Intrusion Detection
+
+
+Solving Intrusion detection in DAS via Semantic Segmentation 
 
 Content:
 ReadTimeIntrusionDetection.ipynb : Training and Evaluation codes
